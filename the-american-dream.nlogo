@@ -175,7 +175,8 @@ to grow-money
     recolor-patch]
 end
 
-;; This procedure for the Lorenz curve and Gini index was taken from the Wealth Distribution model by J. Li and U. Wilensky
+;; This procedure for the Lorenz curve and Gini index was taken from the Wealth Distribution model by U. Wilensky.
+
 ;; this procedure recomputes the value of gini-index-reserve
 ;; and the points in lorenz-points for the Lorenz and Gini-Index plots
 to update-lorenz-and-gini
