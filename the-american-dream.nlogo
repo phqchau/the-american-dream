@@ -1,7 +1,4 @@
-;; Chau Pham
-;; Independent Research Project
-;; CS290
-;; Wealth Distribution model
+;; Copyright 2016, Chau Pham
 
 globals
 [
